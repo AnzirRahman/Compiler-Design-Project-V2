@@ -20,7 +20,6 @@ The compiler reads an input file (input.txt) and generates both intermediate and
 - **codeGen.h / codeGen.c**: Generates the intermediate code.
 - **Makefile**: Build instructions using bison, flex, and gcc.
 - **input.txt**: Sample source code.
-- **output.txt**: Compiler output (intermediate and assembly code).
 
 ## Build and Run
 
