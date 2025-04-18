@@ -1,0 +1,18 @@
+function() = main
+
+start
+
+var = p int;
+
+var = q int;
+
+assign = 5 -> p;
+
+
+assign = 7 -> q;
+
+op = add: p,q -> p;
+
+disp = p;
+
+finish
